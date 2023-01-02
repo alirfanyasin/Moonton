@@ -13,7 +13,7 @@ export default function Show() {
                         url="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
                         controls
                         width={"100%"}
-                        height={"850px"}
+                        height={"700px"}
                     />
                 </div>
 
