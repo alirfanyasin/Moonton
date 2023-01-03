@@ -52,7 +52,7 @@ export default function Input({
                 ref={input}
                 autoComplete={autoComplete}
                 required={required}
-                handleChange={(e) => handleChange(e)}
+                onChange={(e) => handleChange(e)}
                 placeholder={placeholder}
             />
         </div>
